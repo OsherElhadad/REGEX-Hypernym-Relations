@@ -1,0 +1,95 @@
+<np>SOLID</np> which is an example of <np>Object oriented programming</np> .
+
+<np>freestyle drawing</np> which is a kind of <np>Drawing</np> is good .
+
+<np>ArrayList</np> which is a class of <np>List</np> is good for collecting <np>item</np> .
+
+<np>Golden Retriever</np> which is an example of <np>Dog</np> is nice and make you happy .
+
+<np>Google Chrome</np> which is a kind of <np>Chrome</np> is very good .
+
+<np>static storage</np> which is a class of <np>Mavnat Dynamic Programming</np> was taught .
+
+Always a <np>full smile</np> which is an example of <np>Smile</np> is important .
+
+Often you see <np>road buses</np> which is a kind of <np>buses</np> is very good .
+
+<np>C programming</np> which is an example of <np>Object oriented programming</np> .
+
+<np>street drawing</np> which is a kind of <np>Drawing</np> is good .
+
+<np>LinkedList</np> which is a class of <np>List</np> is good for collecting <np>item</np> .
+
+<np>Irish Setter</np> which is an example of <np>Dog</np> is nice and make you happy .
+
+<np>Chrome 10</np> which is a kind of <np>Chrome</np> is very good .
+
+<np>efficient recursion</np> which is a class of <np>Mavnat Dynamic Programming</np> was taught .
+
+Always a <np>a smile</np> which is an example of <np>Smile</np> is important .
+
+Often you see <np>trip buses</np> which is a kind of <np>buses</np> is very good .
+
+<np>C programming</np> which is an example of <np>Object oriented programming</np> .
+
+<np>street drawing</np> which is a kind of <np>Drawing</np> is good .
+
+<np>LinkedList</np> which is a class of <np>List</np> is good for collecting <np>item</np> .
+
+<np>Irish Setter</np> which is an example of <np>Dog</np> is nice and make you happy .
+
+<np>Chrome 10</np> which is a kind of <np>Chrome</np> is very good .
+
+<np>efficient recursion</np> which is a class of <np>Mavnat Dynamic Programming</np> was taught .
+
+Always a <np>a smile</np> which is an example of <np>Smile</np> is important .
+
+Often you see <np>trip buses</np> which is a kind of <np>buses</np> is very good .
+
+<np>F programming</np> which is an example of <np>Object oriented programming</np> .
+
+<np>foreign drawing</np> which is a kind of <np>Drawing</np> is good .
+
+<np>List for the supermarket</np> which is a class of <np>List</np> is good for collecting <np>item</np> .
+
+<np>Beagle</np> which is an example of <np>Dog</np> is nice and make you happy .
+
+<np>Chrome 11</np> which is a kind of <np>Chrome</np> is very good .
+
+<np>recursive algorithm</np> which is a class of <np>Mavnat Dynamic Programming</np> was taught .
+
+Always a <np>long smile</np> which is an example of <np>Smile</np> is important .
+
+Often you see <np>free buses</np> which is a kind of <np>buses</np> is very good .
+
+<np>F programming</np> which is an example of <np>Object oriented programming</np> .
+
+<np>foreign drawing</np> which is a kind of <np>Drawing</np> is good .
+
+<np>List for the supermarket</np> which is a class of <np>List</np> is good for collecting <np>item</np> .
+
+<np>Beagle</np> which is an example of <np>Dog</np> is nice and make you happy .
+
+<np>Chrome 11</np> which is a kind of <np>Chrome</np> is very good .
+
+<np>recursive algorithm</np> which is a class of <np>Mavnat Dynamic Programming</np> was taught .
+
+Always a <np>long smile</np> which is an example of <np>Smile</np> is important .
+
+Often you see <np>free buses</np> which is a kind of <np>buses</np> is very good .
+
+<np>F programming</np> which is an example of <np>Object oriented programming</np> .
+
+<np>foreign drawing</np> which is a kind of <np>Drawing</np> is good .
+
+<np>List for the supermarket</np> which is a class of <np>List</np> is good for collecting <np>item</np> .
+
+<np>Beagle</np> which is an example of <np>Dog</np> is nice and make you happy .
+
+<np>Chrome 11</np> which is a kind of <np>Chrome</np> is very good .
+
+<np>recursive algorithm</np> which is a class of <np>Mavnat Dynamic Programming</np> was taught .
+
+Always a <np>long smile</np> which is an example of <np>Smile</np> is important .
+
+Often you see <np>free buses</np> which is a kind of <np>buses</np> is very good .
